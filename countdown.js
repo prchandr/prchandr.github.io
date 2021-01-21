@@ -17,7 +17,7 @@ function showTime() {
     sec = sec < 10 ? "0" + sec : sec; 
 
     let timeLeft = day + ":" + hour + ":" + min + ":" + sec;
-
+    console.log(timeLeft)
     document.getElementById("countdown") 
             .innerHTML = timeLeft; 
 } 

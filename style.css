@@ -2,7 +2,7 @@ body {
 	background-color: black;
 	font-family: Helvetica;
 	color: white;
-	padding: 10%
+	padding: 10%;
 }
 
 h1 {
@@ -16,10 +16,9 @@ h2 {
 
 #countdown {
 	color: white;
-	font-size: 175px; 
-  	width: 900px; 
-  	margin: 200px; 
+	font-size: 2rem; 
+  	width: 80%;  
   	text-align: center; 
-  	border: 2px solid black; 
+  	border: 2px solid white; 
   	border-radius: 20px; 
 }

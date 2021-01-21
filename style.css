@@ -1,20 +1,19 @@
 body {
 	background-color: black;
+	font-family: Helvetica;
 }
 
 h1 {
 	color: white;
 	text-align: center;
-	font-family: Helvetica;
 }
 
 h2 {
 	color: white;
 	text-align: center;
-	font-family: Helvetica;
-}
 
 #countdown {
+	color: white;
 	font-size: 175px; 
   	width: 900px; 
   	margin: 200px; 

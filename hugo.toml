@@ -12,10 +12,11 @@ theme = 'not-much'
       unsafe = true
 
 [params]
-theme = "dark"
-palette = "catpuccin"
-showThemeNotice = true
-showPostsSummary = true
+  theme = "dark"
+  palette = "dracula"
+  showThemeNotice = false
+  showPostsSummary = true
+  copyright = "© {year}"
 
 # Navigation
 [menu]
